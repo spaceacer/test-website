@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+        <nav>
+            <a href="#about">About Me</a>
+            <a href="#projects">Projects</a>
+            <a href="#tutorials">Tutorials</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>This is a brief introduction about who I am and what I do.</p>
+    </section>
+
+    <section id="projects">
+        <h2>My Projects</h2>
+        <ul>
+            <li><strong>CubeSat Project</strong>: A brief overview of my CubeSat project.</li>
+            <li><strong>Hybrid Rocket Engine</strong>: Developing a water-based propulsion system prototype.</li>
+        </ul>
+    </section>
+
+    <section id="tutorials">
+        <h2>How-To Tutorials</h2>
+        <p>Here are some tutorials on how to build cool 
